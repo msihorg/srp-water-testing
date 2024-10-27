@@ -1,4 +1,4 @@
-# srp-water-testing
+# Student Research Projects - Water Testing
 A separate application/module to empower student scientists nationwide to conduct research by collecting water samples, analyzing data, and writing reports, under the Student Research Projects Progam from Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
 
 # Purpose
