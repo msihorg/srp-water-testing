@@ -24,9 +24,23 @@ A separate application/module to empower student scientists nationwide to conduc
 - orders
 - results
 - reports
+- school 
 
 
 ## Use Cases
+- user management: signup, reset password, logoff
+- site handle users under 13 years of age
+- user create profile: age, school, notification
+- user order water collection kit
+- user pay for the water collection kit and analysis (free if funds are available) or send out 4 donation request platform
+- user can track shipment of water collection kit to user
+- user can track shipment of water collection kit to analysis site
+- users document the location of water collection
+- user or vendor enter water analysis results
+- user access to state level data
+- user upload report
+- site provide information about government programs and data
+- site provide a template for research paper: elementary school, mid/high school, college
 
 
 ## Project Plan
